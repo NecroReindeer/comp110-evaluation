@@ -8,3 +8,7 @@ This week I mainly focused on preparing my game design pitch, as well as conduct
 I had difficulty thinking of ideas for the Hardware Hacking assignment and performing market research. I didn't really know where to begin with the research, and what was expected. In the end, I ended up identifying areas that may be relevant to my design and chosen game, and doing market research around those.
 
 ##Week 19
+I have struggle mainly in aspects of time-management and keeping track of what needs doing. For example, I was not aware until the day that our essay proposals were due on Friday, and I was not aware of the fact that the first sprint review for the Hardware Hacking was on Thursday until shortly before it. Consequently, the weekend consisted entirely of getting the essay proposal done for the following Monday. This has also meant that I have gotten behind on the Hardware Hacking, as I thought we were still in the design/research stage, when we were actually supposed to have started making it... (which wasn't helped by the fact my Arduino did not arrive until Wednesday...).
+I can attempt to avoid this in future by making a study plan each week, and asking the lecturer for clarification if I am unclear about any formative deadlines.
+
+##Week 20
