@@ -12,3 +12,8 @@ I have struggle mainly in aspects of time-management and keeping track of what n
 I can attempt to avoid this in future by making a study plan each week, and asking the lecturer for clarification if I am unclear about any formative deadlines.
 
 ##Week 20
+Sruggling with physical construction.
+Workload.
+
+
+##Week 21
