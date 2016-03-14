@@ -19,3 +19,5 @@ It took longer than it should have done, as I often became demotivated after it 
 The focus of this week was working on the maze generator for the group project's first sprint. The main difficulties I had with this were relating to getting used to the differences between C++ and Python, as well as wrangling with the C++ syntax. I had previously implemented the same algorithm in my Kivy game, so after I managed to solve the issues I was having with C++, it was relatively straightforward. I can continue to get myself used to C++ by persevering with writing programs using it, as well as regularly referring to the documentation of C++ and relevant libraries. The more documentation I read for various programming languages, the better I will begin to understand it - currently, I still struggle to understand much of the documentation.
 
 The first sprint was relatively successful, as we managed to complete all of the user stories. There were some issues with communication, which can perhaps be addressed by all members of the group letting each other know what they are working on and the progress they have made regularly.
+
+##Week 22
