@@ -15,8 +15,7 @@ I can attempt to avoid this in future by making a study plan each week, and aski
 This week I focused on physically constructing my controller in preparation for next week's sprint review. I experienced significant difficulty in knowing how to start and how to construct a mechanism that actually works the way I intended. Part of this difficulty was due to the only material I had available being cardboard, which meant it was quite flimsy and didn't make very good contacts with the electronics. After a lot of trial and error, and redesigning, I finally got the controller to work relatively reliably.
 It took longer than it should have done, as I often became demotivated after it had gone wrong, or when I was stuck for ideas. In order to help avoid this situation in future, I should take a break when I am stuck and come back to it, and, failing that, try to tackle the problem from a new direction.
 
-Sruggling with physical construction.
-Workload.
-
-
 ##Week 21
+The focus of this week was working on the maze generator for the group project's first sprint. The main difficulties I had with this were relating to getting used to the differences between C++ and Python, as well as wrangling with the C++ syntax. I had previously implemented the same algorithm in my Kivy game, so after I managed to solve the issues I was having with C++, it was relatively straightforward. I can continue to get myself used to C++ by persevering with writing programs using it, as well as regularly referring to the documentation of C++ and relevant libraries. The more documentation I read for various programming languages, the better I will begin to understand it - currently, I still struggle to understand much of the documentation.
+
+The first sprint was relatively successful, as we managed to complete all of the user stories. There were some issues with communication, which can perhaps be addressed by all members of the group letting each other know what they are working on and the progress they have made regularly.
