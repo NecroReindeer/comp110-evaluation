@@ -12,6 +12,9 @@ I have struggle mainly in aspects of time-management and keeping track of what n
 I can attempt to avoid this in future by making a study plan each week, and asking the lecturer for clarification if I am unclear about any formative deadlines.
 
 ##Week 20
+This week I focused on physically constructing my controller in preparation for next week's sprint review. I experienced significant difficulty in knowing how to start and how to construct a mechanism that actually works the way I intended. Part of this difficulty was due to the only material I had available being cardboard, which meant it was quite flimsy and didn't make very good contacts with the electronics. After a lot of trial and error, and redesigning, I finally got the controller to work relatively reliably.
+It took longer than it should have done, as I often became demotivated after it had gone wrong, or when I was stuck for ideas. In order to help avoid this situation in future, I should take a break when I am stuck and come back to it, and, failing that, try to tackle the problem from a new direction.
+
 Sruggling with physical construction.
 Workload.
 
