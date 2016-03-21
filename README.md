@@ -21,3 +21,4 @@ The focus of this week was working on the maze generator for the group project's
 The first sprint was relatively successful, as we managed to complete all of the user stories. There were some issues with communication, which can perhaps be addressed by all members of the group letting each other know what they are working on and the progress they have made regularly.
 
 ##Week 22
+This week I worked on Worksheet 5. After Ed's live coding demo, I now understand how the A* algorithm works a little better. I have subsequently managed to implement it myself, differently from the live coding demo.
