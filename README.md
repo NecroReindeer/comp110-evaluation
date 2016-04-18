@@ -22,3 +22,9 @@ The first sprint was relatively successful, as we managed to complete all of the
 
 ##Week 22
 This week I worked on Worksheet 5. After Ed's live coding demo, I now understand how the A* algorithm works a little better. I have subsequently managed to implement it myself, differently from the live coding demo.
+
+##Easter Break
+I struggled with figuring out how to get started with the API Hacking assignment. I think that this is because I was trying to do too many things at once, instead of breaking it down into smaller tasks. In the end, I managed to make progress by focusing only on connecting to the Habitica API. After I have successfully done this, I will then focus on getting the quests from Skyrim. After this, I will link the two together using SKSE.
+In order to avoid this problem in future, I will break down assignments into smaller chunks and ensure that I only work on one bit at a time. Sprint planning in trello will help ensure this, as well as provide a means for measuring this target. I can then incorporate this into the study timetables that I am attempting to make each week.
+
+##Week 23
