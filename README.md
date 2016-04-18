@@ -24,7 +24,8 @@ The first sprint was relatively successful, as we managed to complete all of the
 This week I worked on Worksheet 5. After Ed's live coding demo, I now understand how the A* algorithm works a little better. I have subsequently managed to implement it myself, differently from the live coding demo.
 
 ##Week 22
-Things
+The group has struggled with communication in the second sprint, and we did not manage to get all of the user stories done. Consequently I have found that the lack of communication has made it difficult to get work done on the group project, hence have not got very much done this sprint. This can be addressed by having daily stand-up meetings with the group.
+I have found that explaining how the code I have written works to my group members has allowed me to deepen my understanding of C++ and object oriented programming.
 
 ##Easter Break
 I struggled with figuring out how to get started with the API Hacking assignment. I think that this is because I was trying to do too many things at once, instead of breaking it down into smaller tasks. In the end, I managed to make progress by focusing only on connecting to the Habitica API. After I have successfully done this, I will then focus on getting the quests from Skyrim. After this, I will link the two together using SKSE.
