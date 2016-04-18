@@ -22,6 +22,8 @@ The first sprint was relatively successful, as we managed to complete all of the
 
 ##Week 21
 This week I worked on Worksheet 5. After Ed's live coding demo, I now understand how the A* algorithm works a little better. I have subsequently managed to implement it myself, differently from the live coding demo.
+I have continued to struggle with organising my research for the Agile essay, for the same reasons that I struggled with essays last semester. I must develop a plan to allow myself to deal with essays and research better for the future years of the course.
+ One of the problems I had was feeling like spaghetti and going everywhere following references and reading fragments of papers, losing track of all of the information and getting confused. In order to better organise my research, I will ensure that I only read and take notes on one paper at a time, and only following up references after I have finished with the current paper.
 
 ##Week 22
 The group has struggled with communication in the second sprint, and we did not manage to get all of the user stories done. Consequently I have found that the lack of communication has made it difficult to get work done on the group project, hence have not got very much done this sprint. This can be addressed by having daily stand-up meetings with the group.
