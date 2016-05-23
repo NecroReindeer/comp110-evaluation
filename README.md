@@ -38,14 +38,16 @@ This week
 
 
 ##Week 24
+Things
 
 ##Week 25
 This week was a frantic rush to get the Agile Essay finished, as I had not really commenced research or begun writing the essay until now. Rather than being due to the time management issues highlighted in the last reflective report, this was due to personal circumstances resulting in me not being able to spend much time working. 
 Regarding time management, however, I made the decision to focus on the large programming projects and spend minimal time on the essays, as they are of a less iterative and time-spanning nature. This decision worked out relatively ok, as my stress levels overall were lower than if I had attempted to juggle all of the assignments at the same time.
 I have noticed that I work more productively if I dedicate my time to one assignment at a time, rather than slowly progressing through all of them over the course of several months. Of course, this isn't possible with group projects.
 
-
 ##Week 26
+The Heuristic Analysis and Team Review were due at the end of this week. Due to personal reasons, I did not start the Heuristic Analysis or Team Review until this week. Due to the small nature of these assignments, this did not cause me many issues. At first, I was unclear of what was expected for the Heuristic Analysis, but after reviewing others' work in the peer review session I had a better idea of what was expected.
+I found writing the Teamwork Report difficult. I struggled to focus on the teamwork skills at the same time as making it personally applicable to me.
 
 ##Week 27
 This week work was concentrated on the group project and Coding Task 2. Most of the issues we had with communication earlier in the group project were not a problem this week. We communicated on facebook, did pair programming in class, and made pull requests on GitHub to review each others' code. This worked well and allowed our group to tidy up the code and finish with a functional game, albeit with minimal features.
