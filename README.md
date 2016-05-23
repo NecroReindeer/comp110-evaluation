@@ -34,11 +34,11 @@ I struggled with figuring out how to get started with the API Hacking assignment
 In order to avoid this problem in future, I will break down assignments into smaller chunks and ensure that I only work on one bit at a time. Sprint planning in trello will help ensure this, as well as provide a means for measuring this target. I can then incorporate this into the study timetables that I am attempting to make each week.
 
 ##Week 23
-This week
+Didn't really do any work for personal reasons.
 
 
 ##Week 24
-Things
+Didn't really do any work for personal reasons.
 
 ##Week 25
 This week was a frantic rush to get the Agile Essay finished, as I had not really commenced research or begun writing the essay until now. Rather than being due to the time management issues highlighted in the last reflective report, this was due to personal circumstances resulting in me not being able to spend much time working. 
