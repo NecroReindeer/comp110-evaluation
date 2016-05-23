@@ -46,3 +46,8 @@ I have noticed that I work more productively if I dedicate my time to one assign
 
 
 ##Week 26
+
+##Week 27
+This week work was concentrated on the group project and Coding Task 2. Most of the issues we had with communication earlier in the group project were not a problem this week. We communicated on facebook, did pair programming in class, and made pull requests on GitHub to review each others' code. This worked well and allowed our group to tidy up the code and finish with a functional game. 
+
+##Week 28
